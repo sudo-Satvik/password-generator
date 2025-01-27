@@ -8,7 +8,7 @@ Well I was learning ReactJS Hooks, so I used to create this under the guidance o
 ![alt text](image.png)
 
 or you can visit directly to the link for live demo:
-
+<a href="https://password-generator-kappa-indol-38.vercel.app/">Live Demo</a>
 
 
 ### Hooks I used in this:
