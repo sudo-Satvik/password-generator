@@ -4,7 +4,7 @@ This repository is dedicated to Strong Password Generator, with a lots of custom
 
 Well I was learning ReactJS Hooks, so I used to create this under the guidance of Mr. H.
 
-Here is the showcase!!!!
+## Here is the showcase!!!!
 ![alt text](image.png)
 
 or you can visit directly to the link for live demo:
